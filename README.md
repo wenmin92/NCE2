@@ -1,3 +1,4 @@
-# My Awesome Book
+# NCE2 \(新概念英语２\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+《新概念英语2》，本书仅包含课文，作为语料库，制成电子书，方便搜索。
+
