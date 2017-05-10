@@ -24,4 +24,5 @@
 * [Lesson 20   One man in a boat 独坐孤舟 ](lesson-20-one-man-in-a-boat-du-zuo-gu-zhou.md)
 * [Lesson 21   Mad or not? 是不是疯了？ ](lesson-21-mad-or-not-shi-bu-shi-feng-le-ff1f.md)
 * [Lesson 22   A glass envelop 玻璃信封 ](lesson-22-a-glass-envelop-bo-li-xin-feng.md)
+* [Lesson 23   A new house 新居 ](lesson-23-a-new-house-xin-ju.md)
 
