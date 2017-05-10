@@ -17,4 +17,6 @@
 * [Lesson 13   The Greenwood Boys 绿林少年 ](lesson-13-the-greenwood-boys-lv-lin-shao-nian.md)
 * [Lesson 14   Do you speak English? 你会讲英语吗？ ](lesson-14-do-you-speak-english-ni-hui-jiang-ying-yu-ma-ff1f.md)
 * [Lesson 15   Good news 佳音 ](lesson-15-good-news-jia-yin.md)
+* [Lesson 16   A polite request 彬彬有礼的要求 ](lesson-16-a-polite-request-bin-bin-you-li-de-yao-qiu.md)
+* [Lesson 17   Always young 青春常驻 ](lesson-17-always-young-qing-chun-chang-zhu.md)
 
