@@ -25,5 +25,5 @@
 * [Lesson 21   Mad or not? 是不是疯了？ ](lesson-21-mad-or-not-shi-bu-shi-feng-le-ff1f.md)
 * [Lesson 22   A glass envelop 玻璃信封 ](lesson-22-a-glass-envelop-bo-li-xin-feng.md)
 * [Lesson 23   A new house 新居 ](lesson-23-a-new-house-xin-ju.md)
-* Lesson 24   it could be worse 不幸中之万幸 
+* [Lesson 24   it could be worse 不幸中之万幸 ](lesson-24-it-could-be-worse-bu-xing-zhong-zhi-wan-xing.md)
 
