@@ -19,4 +19,5 @@
 * [Lesson 15   Good news 佳音 ](lesson-15-good-news-jia-yin.md)
 * [Lesson 16   A polite request 彬彬有礼的要求 ](lesson-16-a-polite-request-bin-bin-you-li-de-yao-qiu.md)
 * [Lesson 17   Always young 青春常驻 ](lesson-17-always-young-qing-chun-chang-zhu.md)
+* [Lesson 18   He often does this! 他经常干这种事！ ](lesson-18-he-often-does-this-ta-jing-chang-gan-zhe-zhong-shi-ff01.md)
 
