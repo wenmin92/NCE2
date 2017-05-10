@@ -26,4 +26,5 @@
 * [Lesson 22   A glass envelop 玻璃信封 ](lesson-22-a-glass-envelop-bo-li-xin-feng.md)
 * [Lesson 23   A new house 新居 ](lesson-23-a-new-house-xin-ju.md)
 * [Lesson 24   it could be worse 不幸中之万幸 ](lesson-24-it-could-be-worse-bu-xing-zhong-zhi-wan-xing.md)
+* [Lesson 25   Do the English speak English? 英国人讲的是英语吗？ ](lesson-25-do-the-english-speak-english-ying-guo-ren-jiang-de-shi-ying-yu-ma-ff1f.md)
 
